@@ -2,7 +2,11 @@
 
 Ghid mobil offline pentru medicamentele autorizate in Romania.
 
-Acest repository contine **doar aplicatia distribuita** (fisiere APK, la sectiunea [Releases](../../releases)) — nu contine codul sursa.
+Acest repository contine **doar aplicatia distribuita** (fisiere APK) — nu contine codul sursa.
+
+### 📥 [Descarca ultima versiune (APK)](https://github.com/MediCompRo/MediComp-App/releases/latest/download/MediComp-latest.apk)
+
+Link-ul de mai sus duce mereu la cea mai recenta versiune publicata.
 
 ## Functionalitati
 
@@ -18,7 +22,7 @@ Acest repository contine **doar aplicatia distribuita** (fisiere APK, la sectiun
 
 ## Instalare
 
-1. Mergi la sectiunea [Releases](../../releases) si descarca ultimul fisier `.apk`.
+1. Descarca [ultima versiune (APK)](https://github.com/MediCompRo/MediComp-App/releases/latest/download/MediComp-latest.apk).
 2. Pe telefon, permite instalarea aplicatiilor din surse necunoscute pentru fisierul descarcat (Android va cere aceasta confirmare automat).
 3. Deschide aplicatia — la prima lansare se va descarca baza de date cu medicamente (recomandam Wi-Fi).
 
